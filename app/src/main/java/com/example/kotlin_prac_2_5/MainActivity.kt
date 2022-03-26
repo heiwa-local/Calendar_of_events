@@ -6,8 +6,6 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.*
 
-//import com.example.kotlin_prac_2_5.databinding.ActivityMainBinding
-
 class MainActivity : AppCompatActivity() {
     private lateinit var imageViewReact: ImageView
     private lateinit var vevent: TextView
